@@ -1,0 +1,27 @@
+{
+  "name": "rankcloud",
+  "version": "0.1.0",
+  "author": {
+    "name": "egg",
+    "email": "i@egg.pe.kr"
+  },
+  "description": "rank.cloud module for Node.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egg-/rankcloud.git"
+  },
+  "keywords": [
+    "rankcloud",
+    "connect",
+    "rankwave"
+  ],
+  "license": "MIT",
+  "main": "./index",
+  "devDependencies": {
+    "iterator-runner": "^0.1.0"
+  },
+  "dependencies": {
+    "request": "^2.70.0"
+  }
+}
